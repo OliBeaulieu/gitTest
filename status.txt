@@ -1,1 +1,2 @@
 Test git diff
+Ajout d'une ligne conflictuelle
