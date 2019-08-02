@@ -1,3 +1,0 @@
-Ceci est le deuxième document avec un conflit eee.
-weofij
--OB
